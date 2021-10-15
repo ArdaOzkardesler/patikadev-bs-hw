@@ -1,3 +1,3 @@
 # instagrambootstrapclone
 
-![İnstagram](/instagram.gif)
+![İnstagram](/hw2/instagram.gif)
