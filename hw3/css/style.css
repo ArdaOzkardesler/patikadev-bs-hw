@@ -12,13 +12,16 @@ input.searche {
 
 input.searche::placeholder {
   font-size: 14px;
+  padding-left: 25px;
   color: gray;
-  background-image: url(/bootstraplinkedinclone/assets/search-solid.svg);
+  background-image: url(/hw3/assets/search-solid.svg);
+  background-position: 0;
   background-repeat: no-repeat;
-  background-size: 7%;
+  background-size: 9%;
 }
 
 .body {
+  padding-top: 100px;
   background-color: #f3f2ef;
 }
 
@@ -63,9 +66,10 @@ input.content {
 }
 input.content::placeholder {
   font-weight: bolder;
+  padding-left: 25px;
   font-size: 14px;
   font-family: Arial, Helvetica, sans-serif;
-  background-image: url(/bootstraplinkedinclone/assets/edit-regular.svg);
+  background-image: url(/hw3/assets/edit-regular.svg);
   background-repeat: no-repeat;
   background-size: auto;
 }
